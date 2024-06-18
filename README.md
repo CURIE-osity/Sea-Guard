@@ -22,27 +22,27 @@ Using AI to assess a marine ecosystem
 
 
 
-PLA filament for 3D prints   1 Kg  25€
-DC motors   4 pcs   8€
-Bee wax   100 gr   1€
-PVC pipe 100 mm     0.5 m    5€
-UTP cable cat.6 (outdoor)   10 m   15€
-Audio cable 2×0.5mm2   15 m   10€
-Gravity Huskylens with silicone case   1 pc   65€
-Raspberry pi 5 - 8GB  1 pc   97€
-Submersible water pressure sensor   1 pc   49€
-Temperature sensor   1 pc   2€
-Waterproof ambient light sensor   1 pc   11€
-Button switches   4 pcs   4€
-12V 7000mAh battery   1 pc   16€
-Plastic box   1 pc   5€
-Plastic containers   4 pcs   3€
-Water pump   1 pc   6€
-Micro SD 32GB Class 10- preloaded with noobs   1 pc   10€
-Waterproof Ultrasonic Sensor   2 pc   58€
-Waterproof Connector IP68   1 pc   5€
-Servo Standard Metal Gear   1pc   16€
-Laser Ranging Sensor    1pc  27€
-Waterproof  DS18B20 Sensor Kit    1pc    9€
+PLA filament for 3D prints   1 Kg  25€           
+DC motors   4 pcs   8€             
+Bee wax   100 gr   1€            
+PVC pipe 100 mm     0.5 m    5€             
+UTP cable cat.6 (outdoor)   10 m   15€          
+Audio cable 2×0.5mm2   15 m   10€            
+Gravity Huskylens with silicone case   1 pc   65€              
+Raspberry pi 5 - 8GB  1 pc   97€               
+Submersible water pressure sensor   1 pc   49€             
+Temperature sensor   1 pc   2€              
+Waterproof ambient light sensor   1 pc   11€              
+Button switches   4 pcs   4€              
+12V 7000mAh battery   1 pc   16€               
+Plastic box   1 pc   5€           
+Plastic containers   4 pcs   3€            
+Water pump   1 pc   6€                
+Micro SD 32GB Class 10- preloaded with noobs   1 pc   10€               
+Waterproof Ultrasonic Sensor   2 pc   58€                 
+Waterproof Connector IP68   1 pc   5€               
+Servo Standard Metal Gear   1pc   16€             
+Laser Ranging Sensor    1pc  27€                
+Waterproof  DS18B20 Sensor Kit    1pc    9€            
 
 
